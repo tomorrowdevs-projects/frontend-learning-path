@@ -36,7 +36,7 @@
 
 |Project Name|Repository|Estimated Time|
 --------|-------|------|
-| Consultant Landing Page | [Repository](https://trello.com/c/AhgfKmgA) | 20 Hours |
+| Consultant Landing Page | [Repository](https://github.com/tomorrowdevs-projects/consulting-landing-page) | 20 Hours |
 | Mobile App UI | [Repository](https://github.com/tomorrowdevs-projects/mobile-app-ui) | 20 Hours |
 
 # Milestone 4
