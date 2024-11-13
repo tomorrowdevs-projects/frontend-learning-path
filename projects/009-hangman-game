@@ -1,0 +1,30 @@
+# Project: Interactive Hangman Game
+
+## Project Overview
+In this project, you will create an interactive version of the classic Hangman game. Players will attempt to guess a hidden word letter by letter. Vite will be used as a module bundler to streamline development, manage resources, and optimize the final build for distribution.
+
+### Project Objectives
+- Learn how to set up and configure a project with Vite.
+- Understand the basics of creating a simple, interactive game.
+- Explore bundling, optimizing, and structuring JavaScript, CSS, and assets for an efficient workflow.
+
+## Project Specifications
+
+### 1. Initial Setup with Vite
+- **Create Project**: Start a new project using Vite.
+- **Install Dependencies**: Set up the initial file structure, and install necessary dependencies.
+- **Vite Configuration**: Use Vite’s configuration to manage CSS, JavaScript, and assets in a modular and optimized way.
+
+### 2. Game Structure
+- **Display the Word**: Show the hidden word as a series of blank spaces (_ _ _), where each blank represents a letter.
+- **Letter Input**: Allow users to input letters one at a time. Correct guesses reveal the letters in the word, while incorrect guesses are counted.
+- **Error Counter**: Set a limit (e.g., 6 errors). Each incorrect guess increases the counter by 1, and a part of the hangman illustration appears. Upon reaching the limit, the game ends with a loss.
+
+### 3. Interactive Features
+- **Guess a Letter**: Players can enter letters one by one, and the game updates the display with correct letters or increases the error count for wrong guesses.
+- **Used Letters Indicator**: Show the letters that have already been guessed to avoid repeats.
+- **Win/Loss Messages**: At the end of the game, display a message indicating if the player has won or lost, with an option to start a new game.
+
+### 4. Optimization and Build
+- **Development Optimization**: Use Vite’s development server to see real-time changes during coding.
+- **Production Build**: Create a production-ready build with Vite, optimizing for speed and file size.
